@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| Họ và tên | `Cao Đức Hiệu` |
+| Họ và tên | `Cao Đức Hiếu` |
 | MSSV (đúng bằng `--student-id` bạn đã chạy) | `2A202602701` |
 | GitHub | `ChunHieu` |
 | Seed chia dữ liệu / seed mô hình (xem `evidence/closedloop.json`, mục `student`) | `1918 / 9543` |
